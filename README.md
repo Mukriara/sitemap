@@ -1,2 +1,2 @@
-# sitemap.js
+# sitemap
 Sitemap Mukriara
